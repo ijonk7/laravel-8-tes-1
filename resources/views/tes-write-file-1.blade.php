@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <p>{{ $data1 }}</p>
+    <p>
+        {{ $data1 }}
+    </p>
 </body>
 </html>
